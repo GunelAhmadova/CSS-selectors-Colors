@@ -1,0 +1,44 @@
+h2{ 
+    
+    
+    color: #9fc2f8;
+} 
+p{
+    color: #f0f0f0;
+}
+span{
+    color: #e9d15e;
+
+}
+h3{
+    color: #9fc2f8 ;
+    
+} 
+ul {
+    color: #f0f0f0;
+} 
+ol{
+    color: #f0f0f0;
+}
+.Red {
+    color: red
+} 
+u{
+    color: red;
+}
+body {
+    background-color: #595547;
+}
+em{
+    color: #f0f0f0;
+} 
+img{
+    width: 120px;
+    height: 120px;
+} 
+.Dog{
+    width: 200px;
+}
+    
+
+

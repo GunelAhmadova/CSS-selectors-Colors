@@ -1,0 +1,43 @@
+ h2{
+    text-align: center;
+    color: white;
+ }
+ table{
+  border-collapse: collapse;
+  width: 900px;
+  border-style: hidden;
+  
+  width: 1500px;
+
+
+}
+  
+tr:nth-child(odd){
+    background-color: #f8f8f8;
+} 
+tr:nth-child(even) {
+    background-color: #ffffff;
+}
+th:nth-child(odd) {
+    background-color: #2e4760;
+}
+th{
+    color: #f8f8f8;
+    height: 35px ;
+} 
+th:nth-child(even) {
+    background-color: #4ec4a2;
+} 
+
+td{
+    text-align: center;
+    border: none;
+    height: 35px;
+} 
+body {
+    background-color: #4594e4;
+}
+
+
+
+
